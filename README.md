@@ -7,6 +7,8 @@ Web page to be used as the directory.
 - Simple design.
 
 # Screenshots:
+![image](https://github.com/ericsaza/ericsaza.github.io/assets/94136968/4a9eec74-61c9-4c7e-b304-34084b1f02a7)
+![image](https://github.com/ericsaza/ericsaza.github.io/assets/94136968/ef24a81a-08cf-49c1-91bd-da1eda6c856c)
 
 # Use:
 1. Download all the files from the repository.
